@@ -13,3 +13,4 @@ jobs:
       run: |
           cd file-win
           file.exe file.exe
+          file.exe unshield.exe
